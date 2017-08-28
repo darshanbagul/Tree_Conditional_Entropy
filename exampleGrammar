@@ -1,0 +1,30 @@
+S --> NP VP
+VP --> VP PP
+VP --> TVerb NP
+VP --> DTVerb NP PP
+VP --> DTVerb NP NP
+VP --> VP
+VP --> IVerb
+
+VP --> TVerb that S
+
+
+NP --> Det Noun
+NP --> Pat | Robin
+NP --> NP PP
+
+PP --> Prep NP
+PP --> NP Post
+
+Det --> the | a | an
+Prep --> to | on | with
+Post --> ago
+
+
+Noun --> book | car | roses | telescope | pirates
+TVerb --> saw 
+DTVerb --> gave | put
+IVerb --> danced
+
+
+
