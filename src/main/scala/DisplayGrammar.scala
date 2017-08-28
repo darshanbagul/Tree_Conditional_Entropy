@@ -1,4 +1,4 @@
-package lin567_p2
+package tree_cond_entropy
 
 object DisplayGrammar {
   def main( args:Array[String] ) {

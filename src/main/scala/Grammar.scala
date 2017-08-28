@@ -1,4 +1,4 @@
-package lin567_p2.Grammar
+package tree_cond_entropy.Grammar
 
 abstract class Node {
   val label:String

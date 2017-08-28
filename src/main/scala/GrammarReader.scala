@@ -1,6 +1,6 @@
-package lin567_p2
+package tree_cond_entropy
 
-import lin567_p2.Grammar._
+import tree_cond_entropy.Grammar._
 import scala.annotation.tailrec
 
 object GrammarReader {

@@ -1,7 +1,7 @@
-package lin567_p2
+package tree_cond_entropy
 
-import lin567_p2.parsers.CondEntParser
-import lin567_p2.Grammar.StartNode
+import tree_cond_entropy.parsers.CondEntParser
+import tree_cond_entropy.Grammar.StartNode
 
 object TreeConditionalEntropy {
   def main( args:Array[String] ) {

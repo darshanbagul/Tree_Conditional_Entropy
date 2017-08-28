@@ -1,6 +1,6 @@
-package lin567_p2.parsers
+package tree_cond_entropy.parsers
 
-import lin567_p2.Grammar._
+import tree_cond_entropy.Grammar._
 
 class CondEntParser( pcfg:Map[NonTerminal,Map[RHS,Double]] ) {
 
